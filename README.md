@@ -25,8 +25,8 @@ ROS 2 package for managing a LiDAR connected via serial. It contains two nodes:
 
 ## Dependency
 
-- ROS 2 (Humble o successivo)
-- `rclcpp`
+- ROS 2 (Humble or later)
+- `rclpy`
 - `sensor_msgs`
 - `std_msgs`
 - `serial`
